@@ -1,0 +1,17 @@
+streamlit
+pandas
+openpyxl
+llama-parse
+nest-asyncio
+boto3
+uuid
+langchain
+faiss-cpu
+openai
+amazon-textract-textractor
+amazon-textract-caller
+langchain-openai
+tiktoken
+python-dotenv
+langchain-community
+ipython
